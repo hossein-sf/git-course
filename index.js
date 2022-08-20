@@ -1,6 +1,7 @@
-console.log("hello world...");  
+console.log("hello world...");
 alert("d");
-console.log("first")
-function add (){
-    console.log("add new project")
-}  
+console.log("first");
+function add() {
+	console.log("add new project");
+}
+    
