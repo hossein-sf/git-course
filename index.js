@@ -1,6 +1,6 @@
 console.log("hello world...");  
 alert("d");
-console.log("come one betch...");     
+console.log("first")
 function add (){
     console.log("add new project")
 }  
